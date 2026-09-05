@@ -2,5 +2,8 @@ node_modules
 dist
 .DS_Store
 *.log
+__pycache__/
+*.pyc
+SIGCHI/
 data/scholar-cache.json
 data/papers-ru-cache.json

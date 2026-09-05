@@ -6,6 +6,10 @@
 
 [English README](README.md)
 
+Сайт: [https://lilalogos.github.io/SIGHCI_5september/](https://lilalogos.github.io/SIGHCI_5september/)
+
+Пуш в `main` собирает GitHub Pages через Actions (`Settings → Pages → GitHub Actions`).
+
 ## Запуск
 
 ```bash
