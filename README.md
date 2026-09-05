@@ -6,7 +6,7 @@ Live topics come from the project spreadsheet plus Google Scholar interest tags 
 
 [Русская версия README](README.ru.md)
 
-Site: [https://lilalogos.github.io/SIGHCI_5september/](https://lilalogos.github.io/SIGHCI_5september/)
+Site: [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
 
 Push to `main` builds GitHub Pages via Actions (`Settings → Pages → GitHub Actions`).
 

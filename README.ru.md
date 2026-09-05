@@ -6,7 +6,7 @@
 
 [English README](README.md)
 
-Сайт: [https://lilalogos.github.io/SIGHCI_5september/](https://lilalogos.github.io/SIGHCI_5september/)
+Сайт: [https://lilalogos.github.io/SIGHCI/](https://lilalogos.github.io/SIGHCI/)
 
 Пуш в `main` собирает GitHub Pages через Actions (`Settings → Pages → GitHub Actions`).
 
