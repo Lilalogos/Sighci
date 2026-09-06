@@ -15,6 +15,7 @@ export const copy = {
   ru: {
     docTitle: "SIGCHI — ландшафт тем HCI",
     title: "Ландшафт HCI",
+    blog: "от проекта Цифровой геноцид",
     subtitle: (people: number) => `${people} лауреатов SIGCHI`,
     sector: "Сектор",
     all: "Все",
@@ -46,6 +47,7 @@ export const copy = {
   en: {
     docTitle: "SIGCHI — HCI topic landscape",
     title: "HCI landscape",
+    blog: "from the Digital Genocide project",
     subtitle: (people: number) => `${people} SIGCHI awardees`,
     sector: "Sector",
     all: "All",

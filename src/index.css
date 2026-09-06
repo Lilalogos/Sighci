@@ -87,13 +87,25 @@ a {
 
 .brand-row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 12px;
+  flex-wrap: wrap;
+}
+
+.blog-link {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.blog-link:hover {
+  color: var(--accent);
 }
 
 .lang-switch {
   display: inline-flex;
-  margin-top: 4px;
   border: 1px solid var(--panel-border);
   border-radius: 999px;
   overflow: hidden;

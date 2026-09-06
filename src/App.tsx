@@ -58,6 +58,14 @@ export default function App() {
           <div className="brand">
             <div className="brand-row">
               <h1>{t.title}</h1>
+              <a
+                className="blog-link"
+                href="https://t.me/gulagdigital"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {t.blog}
+              </a>
               <div className="lang-switch" role="group" aria-label="Language">
                 <button
                   type="button"
